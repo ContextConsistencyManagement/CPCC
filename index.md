@@ -1,12 +1,8 @@
 ## CPCC: Towards Efficient Context Consistency by Incremental-Concurrent Check Fusion
 
-### Full Semantics
++ ### [Full Semantics](./Semantics_old.pdf)
 
-[Semantics_old](./Semantics_old.pdf)
-
-### Proof
-
-+ [Proof](./Semantics_old.pdf) 
++ ### [Proof](./Semantics_old.pdf)
 
 ## Welcome to GitHub Pages
 
