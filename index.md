@@ -2,7 +2,11 @@
 
 ### Full Semantics
 
-### Proofs
+[Semantics_old](./Semantics_old.pdf)
+
+### Proof
+
++ [Proof](./Semantics_old.pdf) 
 
 ## Welcome to GitHub Pages
 
