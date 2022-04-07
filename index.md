@@ -1,4 +1,4 @@
-## CPCC: Towards Efficient Context Consistency by Incremental-Concurrent Check Fusion
+## INFUSE: Towards Efficient Context Consistency by Incremental-Concurrent Check Fusion
 
 + ### [Full Semantics and theorems proof](./Semantics_old.pdf)
 
