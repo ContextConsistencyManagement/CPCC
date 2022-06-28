@@ -1,6 +1,6 @@
 ## INFUSE: Towards Efficient Context Consistency by Incremental-Concurrent Check Fusion
 
-+ ### [Full Semantics and theorems proof](./Appendix.pdf)
++ ### [Full Semantics and theorems proof](./Appendix-June-28.pdf)
 
 
 <!-- ## Welcome to GitHub Pages
